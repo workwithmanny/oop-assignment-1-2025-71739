@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "syH9OQV+WlU=",
+  "success": true,
+  "projectFilePath": "/Users/admin/Downloads/oop-assignment-1-2024-71739/Domain Library/Domain Library.csproj",
+  "expectedPackageFiles": [
+    "/Users/admin/.nuget/packages/microsoft.netcore.app.ref/8.0.15/microsoft.netcore.app.ref.8.0.15.nupkg.sha512",
+    "/Users/admin/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.15/microsoft.aspnetcore.app.ref.8.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
