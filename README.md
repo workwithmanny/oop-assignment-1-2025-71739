@@ -1,5 +1,8 @@
 Student Name:Adeniyi Emmanuel 
+
 Student ID:71739
+
+
 Abstract classes and Interfaces both create structures but manage code contracts in different ways. An abstract class is intended to define a family.
 It implements a strict “is-a” hierarchy. For example, a Dog is an Animal. It is a model that has some of its code implemented.
 A base model may hold code that is fully working such as its implemented methods applicable for reuse. 
